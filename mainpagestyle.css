@@ -1,0 +1,17 @@
+html{
+	background-color: darkgray;
+}
+
+div.container-fluid{
+	background-color: darkgray;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+	font-family: Times New Roman;
+	text-align: center;
+}
