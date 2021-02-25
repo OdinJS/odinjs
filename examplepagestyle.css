@@ -5,3 +5,27 @@ html{
 div.container-fluid{
 	background-color: darkgray;
 }
+
+p.body {
+	text-align: center;
+	font-size: 20px;
+	font-family: Times New Roman;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+p.small{
+	text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.retropie{
+	width: 35%;
+	height: 35%;
+}
+
+
